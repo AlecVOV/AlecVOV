@@ -21,6 +21,4 @@ My major is Artificial Intelligence more specifically that I am a first-year stu
 
 <a href="http://www.github.com/AlecVOV"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlecVOV&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/AlecVOV"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlecVOV&bg_color=ffffff&color=000000&line=3382ed&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/AlecVOV" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecVOV&langs_count=10&title_color=ef4444&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
