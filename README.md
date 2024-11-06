@@ -7,7 +7,7 @@ College student in Computer Science.
 My major is Artificial Intelligence more specifically that I am a first-year student in this field. I also passionate about business. Especially in micro/macro-economic.
 
 *   🌍  I'm based in Ho Chi Minh City
-*   ✉️  You can contact me at [lehoangtrietthong2102004@gmail.com](mailto:lehoangtrietthong2102004@gmail.com)
+*   ✉️  You can contact me at [lhtthong.forwork@outlook.com](mailto:lhtthong.forwork@outlook.com)
 *   🧠  I'm learning AI in AI Vietnam - Course: AIO2024
 *   🤝  I'm open to collaborating on project that specifies in LLM or NLP
 *   ⚡  Because I just a college student so don't expect my project going to be huge and in practical manner. Basically, I still learning for my future career. Thanks for reading my site, hope my working assignment can help you in some way.### Skills
@@ -19,12 +19,6 @@ My major is Artificial Intelligence more specifically that I am a first-year stu
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
     </a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-    </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
     </a>
@@ -33,12 +27,6 @@ My major is Artificial Intelligence more specifically that I am a first-year stu
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-    </a>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-    </a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
     </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
