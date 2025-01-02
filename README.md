@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi!My name is Chi Lon Thon
+Hi!My name is Chi Lon Thon
 ====================================================================================================================================
 
 College student in Computer Science.
@@ -10,7 +10,7 @@ My major is Artificial Intelligence more specifically that I am a first-year stu
 *   ✉️  You can contact me at [lhtthong.forwork@outlook.com](mailto:lhtthong.forwork@outlook.com)
 *   🧠  I'm learning AI in AI Vietnam - Course: AIO2024
 *   🤝  I'm open to collaborating on project that specifies in LLM or NLP
-*   ⚡  Because I just a college student so don't expect my project going to be huge and in practical manner. Basically, I still learning for my future career. Thanks for reading my site, hope my working assignment can help you in some way.### Skills
+*   ⚡  Because I just a college student so don't expect my project going to be huge and in practical manner. Basically, I still learning for my future career. Thanks for reading my site, hope my working assignment can help you in some way.
 
 ------------------------------------
 <b align-content="middle">My Program Skills:</b>
