@@ -7,7 +7,7 @@ College student in Computer Science.
 My major is Artificial Intelligence more specifically that I am a first-year student in this field. I also passionate about business. Especially in micro/macro-economic.
 
 *   🌍  I'm based in Ho Chi Minh City
-*   ✉️  You can contact me at [lhtthong.forwork@outlook.com](mailto:lhtthong.forwork@outlook.com)
+*   ✉️  You can contact me at [lhtthong.forwork@outlook.com](mailto:lhtthong.forwork@outlook.com) or [lhtthong.forwork@gmail.com](mailto:lhtthong.forwork@gmail.com)
 *   🧠  I'm learning AI in AI Vietnam - Course: AIO2024
 *   🤝  I'm open to collaborating on project that specifies in LLM or NLP
 *   ⚡  Because I just a college student so don't expect my project going to be huge and in practical manner. Basically, I still learning for my future career. Thanks for reading my site, hope my working assignment can help you in some way.
